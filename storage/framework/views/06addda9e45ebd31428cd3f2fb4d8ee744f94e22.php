@@ -1,0 +1,1 @@
+<?php /**PATH /home/saeeccmd/taxi.saeedantechnology.com/themes/Jamrock/Layout/parts/bc.blade.php ENDPATH**/ ?>
